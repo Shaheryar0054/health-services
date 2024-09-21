@@ -1,5 +1,6 @@
 import './App.css';
-import Healthservices from './components/Healthservices';
+import Healthservices from './components/Healthservices'; // Ensure this path is correct
+
 function App() {
   return (
     <div>
