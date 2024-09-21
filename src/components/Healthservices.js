@@ -81,8 +81,8 @@ function Healthservices() {
             <p><strong>Description:</strong> {task.desc}</p>
             <p><strong>Price:</strong> {task.price}</p>
           </div>
-          <button onClick={() => editHandler(index)}>Edit</button>
-          <button onClick={() => deleteHandler(index)}>Delete</button>
+          <button className='edite-btn' onClick={() => editHandler(index)}>Edit</button>
+          <button className='delete-btn' onClick={() => deleteHandler(index)}>Delete</button>
         </li>
       );
     });
