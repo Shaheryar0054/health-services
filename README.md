@@ -81,7 +81,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Clone the repository using:
 ```
-   https://github.com/Shaheryar0054/react-capstone.git
+   https://github.com/Shaheryar0054/health-services.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -100,8 +100,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [] **[new_feature_1]**
-- [] **[new_feature_2]**
+- **[Add-Services]**
+- **[Delete-Services]**
+- **[Update-Services]**
+- **[Store Data in a local storage]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,7 +123,6 @@ If you like this project please give me stars rating
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 📝 License <a name="license"></a>
 
