@@ -43,6 +43,10 @@ button {
   cursor: pointer;
 }
 
+h2 {
+  text-align: center;
+}
+
 button:hover {
   background: #218838;
 }
