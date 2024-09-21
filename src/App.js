@@ -1,9 +1,9 @@
 import './App.css';
-
+import Healthservices from './components/Healthservices';
 function App() {
   return (
-    <div className="App">
-      
+    <div>
+      <Healthservices />
     </div>
   );
 }
