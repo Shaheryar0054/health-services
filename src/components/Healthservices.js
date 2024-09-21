@@ -79,7 +79,7 @@ function Healthservices() {
           <div>
             <p><strong>Name:</strong> {task.name}</p>
             <p><strong>Description:</strong> {task.desc}</p>
-            <p><strong>Price:</strong> {task.price}</p>
+            <p><strong>Price:</strong> ₹{task.price}</p>
           </div>
           <button className='edite-btn' onClick={() => editHandler(index)}>Edit</button>
           <button className='delete-btn' onClick={() => deleteHandler(index)}>Delete</button>
@@ -90,7 +90,7 @@ function Healthservices() {
 
   return (
     <div>
-      <h1>Health Services</h1>
+      <h1>Health Services List</h1>
 
       <form onSubmit={submitHandler}>
         <input
