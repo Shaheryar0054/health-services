@@ -47,6 +47,10 @@ button:hover {
   background: #218838;
 }
 
+p {
+  margin-top: 5px;
+}
+
 .error {
   color: red;
   text-align: center;
@@ -101,15 +105,18 @@ li div {
 }
 
 button.edite-btn {
-  margin-right: 10px; /* Add space between the buttons */
+  margin-right: 10px;
+  /* Add space between the buttons */
 }
 
 button.delete-btn {
-  background-color: #dc3545; /* Red color for the delete button */
+  background-color: #dc3545;
+  /* Red color for the delete button */
 }
 
 button.delete-btn:hover {
-  background-color: #c82333; /* Darker red on hover */
+  background-color: #c82333;
+  /* Darker red on hover */
 }
 
 hr {
